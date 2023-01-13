@@ -1,5 +1,3 @@
-<img src = "https://wallpaper.dog/large/20512774.png" width = "25%">
-
 <h1 align="center">Hi 👋, I'm Niharika</h1>
 <h3 align="center">A BE CSE student</h3>
 
