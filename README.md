@@ -43,3 +43,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niharika1102&show_icons=true&theme=onedark&bg_color=ffffff&locale=en" alt="niharika1102" /></p>
 
 <p><br><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niharika1102&" alt="niharika1102" /></p>
+
+<hr>
+
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+
+<hr>
