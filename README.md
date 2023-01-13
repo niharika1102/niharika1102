@@ -42,8 +42,7 @@
 
 <hr>
 
-![snake gif](https://github.com/niharika1102/niharika1102/blob/output/github-contribution-grid-snake.gif)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![snake gif](https://github.com/niharika1102/niharika1102/blob/output/github-contribution-grid-snake.svg)
 
 <hr>
 
