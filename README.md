@@ -5,6 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niharika1102&label=Profile%20views&color=0e75b6&style=flat" alt="niharika1102" /> </p>
 
+<img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpaper.dog%2Fcoding&psig=AOvVaw1KLTlLgIA_RHo1TPDyguas&ust=1673698422510000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLi_-NDCxPwCFQAAAAAdAAAAABAI" width = "100%">
+
+<br>
+
 - 🌱 I’m currently learning **more about Git.**
 
 - 🤝 I’m looking for help with **learning JAVA.**
