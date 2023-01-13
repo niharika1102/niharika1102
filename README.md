@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niharika</h1>
-<h3 align="center">A BE CSE student passionate about learning new skills</h3>
+<h3 align="center">BE CSE student passionate to learn new skills</h3>
 
 <hr>
 
