@@ -40,7 +40,9 @@
 
 <hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niharika1102&show_icons=true&theme=onedark&bg_color=ffffff&locale=en&layout=compact" alt="niharika1102" /></p>
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=niharika1102&theme=react&line_height=40&hide=css"/> </a>
+
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niharika1102&show_icons=true&theme=onedark&bg_color=ffffff&locale=en&layout=compact" alt="niharika1102" /></p> -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niharika1102&show_icons=true&theme=onedark&bg_color=ffffff&locale=en" alt="niharika1102" /></p>
 
