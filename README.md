@@ -42,7 +42,7 @@
 
 <hr>
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/niharika1102/niharika1102/blob/output/github-contribution-grid-snake.gif)
 
 <hr>
 
