@@ -46,7 +46,4 @@
 
 <hr>
 
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
-
-<hr>
+[![Niharika's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=niharika1102)](https://github.com/niharika1102/github-readme-activity-graph)
