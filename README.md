@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niharika1102&label=Profile%20views&color=0e75b6&style=flat" alt="niharika1102" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niharika1102" alt="niharika1102" /></a> </p>
-
 - 🌱 I’m currently learning **more about Git.**
 
 - 🤝 I’m looking for help with **learning JAVA.**
@@ -16,6 +14,8 @@
 - 📫 How to reach me **niharikag1102@gmail.com**
 
 - 📄 Know about my experiences [https://linktr.ee/niharika1102](https://linktr.ee/niharika1102)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niharika1102" alt="niharika1102" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
