@@ -42,7 +42,7 @@
 
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=niharika1102&theme=react&line_height=40&hide=css"/> </a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niharika1102&show_icons=true&theme=onedark&bg_color=ffffff&locale=en" alt="niharika1102" /></p>
+<a href="">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niharika1102&show_icons=true&theme=onedark&bg_color=ffffff&locale=en" alt="niharika1102" /></a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niharika1102&theme=react" alt="niharika1102" /></p>
 
