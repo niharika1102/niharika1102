@@ -48,6 +48,8 @@
 <!-- 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niharika1102&theme=react" alt="niharika1102" /></p> -->
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=niharika1102&theme=react)](https://git.io/streak-stats)
+
 <hr>
 
 ![snake gif](https://github.com/niharika1102/niharika1102/blob/output/github-contribution-grid-snake.svg)
