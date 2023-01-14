@@ -42,9 +42,9 @@
 
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=niharika1102&theme=react&line_height=40&hide=css"/> </a>
 
-![Niharika's GitHub stats](https://github-readme-stats.vercel.app/api?username=niharika1102&show_icons=true&theme=react)
+<!-- ![Niharika's GitHub stats](https://github-readme-stats.vercel.app/api?username=niharika1102&show_icons=true&theme=react)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niharika1102&theme=react" alt="niharika1102" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niharika1102&theme=react" alt="niharika1102" /></p> -->
 
 <hr>
 
