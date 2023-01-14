@@ -45,8 +45,8 @@
 ![Niharika's GitHub stats](https://github-readme-stats.vercel.app/api?username=niharika1102&show_icons=true&theme=react)
 
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YulietM&theme=react&line_height=40&hide=css"/> </a>
-<!-- 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niharika1102&theme=react" alt="niharika1102" /></p> -->
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niharika1102&theme=react" alt="niharika1102" /></p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=niharika1102&theme=react)](https://git.io/streak-stats)
 
