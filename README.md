@@ -48,8 +48,6 @@
  -->
 ![Niharika's github stats](https://github-readme-stats2-blush.vercel.app/api?username=niharika1102&theme=react&showicons=true)
 
- 
-github-readme-stats2-blush.vercel.app
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=niharika1102&theme=react)](https://git.io/streak-stats)
 
 <hr>
