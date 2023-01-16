@@ -46,7 +46,7 @@
 
 <!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=niharika1102&count_private=true&theme=react)](https://github.com/niharika1102/github-readme-stats)
  -->
-![Niharika's github stats](https://[github-readme-stats2-blush.vercel.app](https://github-readme-stats2-git-master-niharika1102.vercel.app/)/api?username=niharika1102&theme=react&showicons=true)
+![Niharika's github stats](https://github-readme-stats2.niharika1102.vercel.app/api?username=niharika1102&theme=react&showicons=true)
 
  
 github-readme-stats2-blush.vercel.app
