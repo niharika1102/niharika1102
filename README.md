@@ -44,9 +44,9 @@
 
 <!-- ![Niharika's GitHub stats](https://github-readme-stats.vercel.app/api?username=niharika1102&show_icons=true&theme=react) -->
 
-<!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=niharika1102&count_private=true&theme=react)](https://github.com/niharika1102/github-readme-stats) -->
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=niharika1102&count_private=true&theme=react)](https://github.com/niharika1102/github-readme-stats)
 
-![Niharika's github stats](https://github-readme-stats.vercel.app/api?username=niharika1102&theme=react)
+<!-- ![Niharika's github stats](https://github-readme-stats.vercel.app/api?username=niharika1102&theme=react) -->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=niharika1102&theme=react)](https://git.io/streak-stats)
 
