@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niharika1102&label=Profile%20views&color=0e19b4&style=flat-square" alt="niharika1102" /> </p>
 
-- 🌱 I’m currently learning **more about Git**
+- 🌱 I’m currently learning **JAVA**
 
-- 🤝 I’m looking for help with **learning JAVA**
+- 🤝 I’m looking for help with **learning **
 
 - 👨‍💻 All of my projects are available at [https://github.com/niharika1102](https://github.com/niharika1102)
 
-- 💬 Ask me about **C, C++, HTML, CSS and SQL**
+- 💬 Ask me about **C, C++, HTML, CSS and Git**
 
 - 📫 How to reach me **niharikag1102@gmail.com**
 
