@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JAVA**
 
-- 🤝 I’m looking for help with **learning **
+- 🤝 I’m looking for help with **learning JAVA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/niharika1102](https://github.com/niharika1102)
 
