@@ -53,6 +53,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=niharika1102&theme=react)](https://git.io/streak-stats)
 
-<hr>
+<!-- <hr>
 
-![snake gif](https://github.com/niharika1102/niharika1102/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/niharika1102/niharika1102/blob/output/github-contribution-grid-snake.svg) -->
