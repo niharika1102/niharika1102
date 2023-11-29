@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niharika1102&label=Profile%20views&color=0e19b4&style=flat-square" alt="niharika1102" /> </p>
 
-- 🌱 I’m currently learning **JavaScript and React**
+- 🌱 I’m currently learning **JavaScript**
 
-- 🤝 I’m looking for help with **JavaScript and Bootstrap**
+- 🤝 I’m looking for help with **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/niharika1102](https://github.com/niharika1102)
 
