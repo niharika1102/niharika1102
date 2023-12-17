@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/niharika1102](https://github.com/niharika1102)
 
-- 💬 Ask me about **C, C++, HTML, CSS and Git**
+- 💬 Ask me about **HTML, CSS, JavaScript, Java and Git**
 
 - 📫 How to reach me **niharikag1102@gmail.com**
 
