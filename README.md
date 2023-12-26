@@ -59,7 +59,7 @@
 
 <!-- <a href=""> <img align="center" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=niharika1102&theme=react)](https://github.com/niharika1102/github-readme-stats)"/> </a> -->
 
-![Niharika's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=niharika1102&size_weight=0.5&count_weight=0.5&theme=react)
+![Niharika's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=niharika1102&size_weight=0.5&count_weight=0.5&theme=react&layout=compact)
 
 <!-- ![Niharika's GitHub stats](https://github-readme-stats.vercel.app/api?username=niharika1102&show_icons=true&theme=react) -->
 
