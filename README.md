@@ -71,7 +71,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=niharika1102&theme=react)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=niharika1102&theme=react)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=niharika1102&theme=react)](https://git.io/streak-stats) -->
 
 <!-- <hr>
 
