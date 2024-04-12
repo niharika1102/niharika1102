@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/niharika1102](https://github.com/niharika1102)
+- 👨‍💻 All of my projects are available at [My GitHub Profile](https://github.com/niharika1102?tab=repositories)
 
 - 💬 Ask me about **JavaScript, Java, Git, Node.js and Express.js**
 
