@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **niharikag1102@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1S1dennrpfV8VGJQjnQrOcH0EnockSdtd/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1-yjXPLJsXsTf0LdVXUlnyOeQ4I43mOhC/view?usp=sharing)
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niharika1102" alt="niharika1102" /></a> </p> -->
 
