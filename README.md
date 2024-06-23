@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niharika1102&label=Profile%20views&color=0e19b4&style=flat-square" alt="niharika1102" /> </p>
 
-- 🌱 I’m currently learning **React Native** and **Tailwind**
+- 🌱 I’m currently learning **React Native** and **[Building my portfolio](https://github.com/niharika1102/Portfolio)**
 
 <!--- 🤝 I’m looking for help with **React** -->
 
