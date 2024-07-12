@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niharika1102&label=Profile%20views&color=0e19b4&style=flat-square" alt="niharika1102" /> </p>
 
-- 🌱 I’m currently learning **Dart** and **[Building my portfolio](https://github.com/niharika1102/Portfolio)**
+- 🌱 I’m currently learning **Dart**.
 
 <!--- 🤝 I’m looking for help with **React** -->
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **niharikag1102@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1X_foN2vF4YDl2rEQycgRT21RkMZIz30i/view?usp=sharing)
+- 📄 Know about my experiences from [My Resume](https://drive.google.com/file/d/1X_foN2vF4YDl2rEQycgRT21RkMZIz30i/view?usp=sharing) and [My portfolio](https://niharika-portfolio-v1.netlify.app/)
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niharika1102" alt="niharika1102" /></a> </p> -->
 
