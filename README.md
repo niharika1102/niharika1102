@@ -51,7 +51,7 @@
 <p align="left">
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>&nbsp;&nbsp;
 <!-- <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> &nbsp;&nbsp; -->
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=000000" alt="express" width="40" height="40"/> </a> &nbsp;&nbsp;
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=000000" style="background-color: white" alt="express" width="40" height="40"/> </a> &nbsp;&nbsp;
 </p>
 
 <h4 align="left">Mobile App Development</h4>
