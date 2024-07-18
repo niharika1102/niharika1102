@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niharika1102&label=Profile%20views&color=0e19b4&style=flat-square" alt="niharika1102" /> </p>
 
-- 🌱 I’m currently learning **Dart**.
+- 🌱 I’m currently learning **Flutter** and practising **DSA**.
 
 <!--- 🤝 I’m looking for help with **React** -->
 
@@ -56,7 +56,7 @@
 
 <h4 align="left">Mobile App Development</h4>
 <p align="left">
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> &nbsp;&nbsp;
+<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> &nbsp;&nbsp;
 </p>
 
 <h4 align="left">Database</h4>
