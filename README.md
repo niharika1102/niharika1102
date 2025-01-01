@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [My GitHub Profile](https://github.com/niharika1102?tab=repositories)
 
-- 💬 Ask me about **MERN Stack, JavaScript, Java and Git**
+- 💬 Ask me about **MERN Stack, Java and Git**
 
 - 📫 How to reach me **niharikag1102@gmail.com**
 
