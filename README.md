@@ -102,11 +102,11 @@
  -->
 ![Niharika's github stats](https://github-readme-stats2-blush.vercel.app/api?username=niharika1102&theme=react&showicons=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=niharika1102&theme=react)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=niharika1102&theme=react)](https://git.io/streak-stats) -->
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=niharika1102&theme=react)](https://git.io/streak-stats) -->
 
-<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=niharika1102&theme=react)](https://git.io/streak-stats) -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=niharika1102&theme=react)](https://git.io/streak-stats)
 
 <!-- <hr>
 
