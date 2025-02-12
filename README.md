@@ -7,7 +7,7 @@
 
 - 💼 I'm currently working as **SDE Intern** at **Cognida.ai**.
 
-- 🌱 I’m currently learning about **Software Development Life Cycle**.
+- 🌱 I’m currently learning about **Software Development Life Cycle** and **React**.
 
 <!--- 🤝 I’m looking for help with **React** -->
 
