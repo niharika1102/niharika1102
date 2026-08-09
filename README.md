@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niharika1102&label=Profile%20views&color=0e19b4&style=flat-square" alt="niharika1102" /> </p>
 
-- 💼 I'm currently working as **SDE Intern** at **Cognida.ai**.
+- 💼 I'm currently working as **SDE** at **Cognida.ai**.
 
-- 🌱 I’m currently learning about **Software Development Life Cycle** and **React**.
+- 🌱 I’m currently learning about **AI/ML**.
 
 <!--- 🤝 I’m looking for help with **React** -->
 
