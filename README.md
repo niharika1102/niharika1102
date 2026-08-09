@@ -1,5 +1,5 @@
 <h1 align="center">Niharika</h1>
-<h3 align="center">BE CSE student passionate to learn new skills</h3>
+<h3 align="center">SDE with experience building and owning enterprise applications</h3>
 
 <hr>
 
