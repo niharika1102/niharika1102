@@ -1,4 +1,4 @@
-<h1 align="center">Niharika</h1>
+<h1 align="center">Niharika Gupta</h1>
 <h3 align="center">SDE with experience building and owning enterprise applications</h3>
 
 <hr>
